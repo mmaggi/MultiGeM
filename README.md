@@ -12,6 +12,6 @@ Garfield study
 Concept study is done by Garfield simulation. Here several geometry are 
 designed taylored to optimize the timing response.
 
-to be competed
+to be competed I hope
 
 
